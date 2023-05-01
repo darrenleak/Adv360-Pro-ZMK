@@ -6,7 +6,8 @@
     "base",
     "keypad",
     "fn",
-    "mod"
+    "mod",
+    "Layer #4"
   ],
   "layers": [
     [
@@ -33,6 +34,12 @@
         "&none",        "&none",        "&none",        "&none",        "&none",           "&none",           "&rgb_ug RGB_MEFS_CMD 5",  "&bt BT_CLR",        "&none",                                      "&bt BT_CLR",   "&bt BT_CLR", "&rgb_ug RGB_MEFS_CMD 5",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
         "&none",        "&none",        "&none",        "&none",        "&none",           "&none",                            "&none",       "&none",        "&none",        "&none",           "&none",        "&none",        "&none",                  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
         "&none",        "&none",        "&none",   "&bl BL_INC",   "&bl BL_DEC", "&rgb_ug RGB_TOG",                       "&bl BL_TOG",       "&none",        "&none",   "&bl BL_TOG", "&rgb_ug RGB_TOG",   "&bl BL_INC",   "&bl BL_DEC",                  "&none",  "&none",  "&none"
+    ], [
+               "&trans",   "&kp N1", "&kp N2", "&kp N3", "&kp N4",    "&kp N5",                   "&none", "&kp SEMICOLON",            "&none",          "&none",                "&none",                 "&none",          "&trans",            "&trans",
+               "&trans",   "&kp N6", "&kp N7", "&kp N8", "&kp N9",    "&kp N0",                   "&none",     "&kp COLON", "&kp LEFT_BRACKET", "&kp LEFT_BRACE", "&kp LEFT_PARENTHESIS", "&kp RIGHT_PARENTHESIS", "&kp RIGHT_BRACE", "&kp RIGHT_BRACKET",
+              "&kp TAB",    "&kp Q",  "&kp W",  "&kp E",  "&kp R",     "&kp T",               "&kp MINUS",        "&trans",           "&trans",                                                          "&trans",          "&trans",         "&kp EQUAL",             "&kp Y",            "&kp U",  "&kp I",  "&kp O",  "&kp P",    "&kp QUESTION",
+       "&kp LEFT_SHIFT",    "&kp A",  "&kp S",  "&kp D",  "&kp F",     "&kp G",                  "&trans",        "&trans",          "&kp DEL",         "&trans",               "&trans",                "&trans",          "&trans",            "&trans",             "&kp H",            "&kp J",  "&kp K",  "&kp L",  "&kp B", "&kp RIGHT_SHIFT",
+              "&kp ESC", "&kp RCMD",  "&kp Z",  "&kp X",  "&kp C", "&kp SPACE",           "&kp BACKSPACE",        "&trans",           "&trans",      "&kp ENTER",            "&kp SPACE",                 "&kp N",           "&kp M",             "&kp V", "&kp DOUBLE_QUOTES", "&kp SINGLE_QUOTE"
     ]
   ]
 }
